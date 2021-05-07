@@ -15,7 +15,7 @@ const about = () => {
                 </div>
                 <div className="about-details">
                     <div className="decor">
-                        <div className='h_line'></div> <p className='title'>ABOUT ME</p>
+                        <div className='h_line'></div> <p className='about-title'>ABOUT ME</p>
                     </div>
                     <h2>Hi! I am Abhishek Yadav.</h2>
                     <h4>A Designer, Developer, Photographer and an Engineer. I am a tech enthusiast and i like learning new things and brushing up my skills. In my spare time i like watching anime, movies, listening to music and gaming.</h4>
