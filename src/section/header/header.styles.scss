@@ -1,0 +1,45 @@
+.header {
+  width: 90%;
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 15px auto;
+}
+
+.options {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  color: white;
+}
+
+.option {
+  margin: 10px 20px;
+  &:hover {
+    cursor: pointer;
+    color: #ff5e01;
+    text-decoration: line-through;
+    text-decoration-thickness: 2px;
+    transition: ease-in-out 0.15s;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .header {
+    width: 90%;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px auto;
+  }
+
+  .options {
+    display: none;
+  }
+
+  .option {
+    display: none;
+  }
+}
