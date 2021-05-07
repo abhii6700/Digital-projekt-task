@@ -1,4 +1,4 @@
-import React, { version } from 'react'
+import React from 'react'
 import './skills.styles.scss'
 import background from '../../assets/skills-tools-01.png'
 
