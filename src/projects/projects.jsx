@@ -24,7 +24,7 @@ const Projects = () => (
                 <MdPhotoCamera className='project-icon' />
                 <h2>PHOTOGRAPHY</h2>
                 <p>This collection represents my creative side, it includes photography of some genres, 2D animations and videos.</p>
-                <a target='_blank' rel="noreferrer" href="https://www.instagram.com/__abhishek.yadav__/"><FaArrowCircleRight className='arrow' /></a>
+                <a target='_blank' rel="noreferrer" href="https://www.instagram.com/shuttergan/"><FaArrowCircleRight className='arrow' /></a>
             </div></a>
         </div>
     </div>
