@@ -15,7 +15,7 @@ const GetInTouch = () => (
         <div className='want-to-hire'>
             <div></div>
             <h1>Want to hire?</h1>
-            <a target='_blank' rel="noreferrer" href='https://drive.google.com/uc?export=download&id=1ALIq-QFHpOsIsuK9wn1XCkylJMb9wOTj'><Button className='get-in-touch-btn'>Checkout my resume</Button></a>
+            <a target='_blank' rel="noreferrer" href='https://drive.google.com/uc?export=download&id=1pyfCZvFdxNjy--3HF3O8kgNDhhsTTxHZ'><Button className='get-in-touch-btn'>Checkout my resume</Button></a>
         </div>
     </div>
 )
