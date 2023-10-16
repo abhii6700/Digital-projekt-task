@@ -19,7 +19,7 @@ const about = () => {
                     </div>
                     <h2>Hi! I am Abhishek Yadav.</h2>
                     <h4>A Designer, Developer, Photographer and an Engineer. I am a tech enthusiast and i like learning new things and brushing up my skills. In my spare time i like watching anime, movies, listening to music and gaming.</h4>
-                    <a target='_blank' rel="noreferrer" href='https://drive.google.com/uc?export=download&id=1pyfCZvFdxNjy--3HF3O8kgNDhhsTTxHZ'><Button className='about-btn'>Checkout my Resume</Button></a>
+                    <a target='_blank' rel="noreferrer" href='https://drive.google.com/uc?export=download&id=1_lpP-SPK-SOZENp3BUtvq8AUM3jxmQhy'><Button className='about-btn'>Checkout my Resume</Button></a>
                 </div>
             </div>
         </div>
